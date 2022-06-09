@@ -1,3 +1,7 @@
 body {
     background: steelblue;
 }
+
+li {
+    font-size: 30px;
+}
